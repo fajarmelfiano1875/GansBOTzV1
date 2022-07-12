@@ -1,8 +1,6 @@
 let fs = require('fs')        
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
   ['6285748839210', 'FajarYT1875', true]  
   
 ] 
